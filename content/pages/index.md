@@ -43,13 +43,13 @@ sections:
       - title: Claro Nicaragua
         subtitle: 2017 - 2021
         title_align: left
-        content: >+
+        content: >
           ## Digital marketing analyst
 
 
           As a digital marketing analyst, I used to manage requests from the
-          differents products of the company. Some of the skills that I
-          developed in this role are:
+          different products of the company. Some of the skills that I developed
+          in this role are:
 
 
           *   Market research
@@ -69,7 +69,6 @@ sections:
 
 
           *   Microsoft Office
-
         content_align: left
         actions: []
         actions_align: left
