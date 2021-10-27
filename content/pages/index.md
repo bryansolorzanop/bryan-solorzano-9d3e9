@@ -5,7 +5,7 @@ sections:
     title: >-
       Hi, I'm Bryan Solorzano. I help businesses accomplish objectives and make
       a true impact.
-    subtitle: 'Creating content, managing ads or driving strategies.'
+    subtitle: ' Creating content, managing ads, or driving strategies. I can help your business make a real impact. '
     actions:
       - label: Contact Me
         url: /contact
