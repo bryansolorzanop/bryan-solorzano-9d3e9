@@ -36,8 +36,6 @@ sections:
         image_align: center
       - image_alt: Logo 5
         image_align: center
-      - image_alt: Logo 6
-        image_align: center
       - image_alt: Logo 7
         image_align: center
       - title: Claro Nicaragua
