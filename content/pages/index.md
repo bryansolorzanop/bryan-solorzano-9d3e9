@@ -26,6 +26,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
+        title: Claro Nicaragua
       - image_alt: Logo 2
         image_align: center
       - image_alt: Logo 3
