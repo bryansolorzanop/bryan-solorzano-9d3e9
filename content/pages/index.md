@@ -65,17 +65,37 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Content manager
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          As a content manager, I used to create the digital strategy of the
+          small business that I care for. Some of the skills that I developed
+          were:
 
 
-          - Lorem ipsum
+          *   Project management
 
-          - dolor sit amet
+
+          *   Copywriting
+
+
+          *   Content planning
+
+
+          *   Community management
+
+
+          Tools I used in the role:
+
+
+          *   Google Suite
+
+
+          *   Facebook ads manager
+
+
+          *   Buffer
         content_align: left
         actions: []
         actions_align: left
