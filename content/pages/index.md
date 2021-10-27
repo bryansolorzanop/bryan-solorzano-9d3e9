@@ -40,7 +40,7 @@ sections:
         image_align: center
       - image_alt: Logo 8
         image_align: center
-      - title: lorem-ipsum
+      - title: Claro Nicaragua
         subtitle: lorem-ipsum
         title_align: left
         content: >-
