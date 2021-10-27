@@ -5,9 +5,7 @@ sections:
     title: >-
       Hi, I'm Bryan Solorzano. I help businesses accomplish objectives and make
       a true impact.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: 'Creating content, managing ads or driving strategies.'
     actions:
       - label: Contact Me
         url: /contact
