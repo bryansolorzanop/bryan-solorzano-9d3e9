@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     title: How i worked
     subtitle: About my experience
-    align: right
+    align: center
     grid_items:
       - image_alt: Logo 1
         image_align: center
