@@ -41,7 +41,7 @@ sections:
       - image_alt: Logo 8
         image_align: center
       - title: Claro Nicaragua
-        subtitle: lorem-ipsum
+        subtitle: 2017 - 2021
         title_align: left
         content: >-
           ## Lorem ipsum
