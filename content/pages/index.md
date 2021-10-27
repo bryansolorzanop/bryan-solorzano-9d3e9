@@ -24,10 +24,6 @@ sections:
     subtitle: About my experience
     align: center
     grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        title: Claro Nicaragua
-        subtitle: Jun 2017 - Jun 2021
       - title: Claro Nicaragua
         subtitle: 2017 - 2021
         title_align: left
