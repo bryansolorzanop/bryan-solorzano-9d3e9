@@ -43,17 +43,33 @@ sections:
       - title: Claro Nicaragua
         subtitle: 2017 - 2021
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ## Digital marketing analyst
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          As a digital marketing analyst, I used to manage requests from the
+          differents products of the company. Some of the skills that I
+          developed in this role are:
 
 
-          - Lorem ipsum
+          *   Market research
 
-          - dolor sit amet
+          *   Growth analysis per product month by month
+
+          *   Project management
+
+
+          Tools that I used the most:
+
+
+          *   Google analytics
+
+
+          *   Google data studio
+
+
+          *   Microsoft Office
+
         content_align: left
         actions: []
         actions_align: left
