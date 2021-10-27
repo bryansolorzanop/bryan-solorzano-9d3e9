@@ -21,7 +21,7 @@ sections:
     image: /images/Portafolio.png
   - type: grid_section
     title: Some brand
-    subtitle: Who I work with
+    subtitle: About my experience
     align: center
     grid_items:
       - image_alt: Logo 1
