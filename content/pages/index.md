@@ -38,8 +38,6 @@ sections:
         image_align: center
       - image_alt: Logo 7
         image_align: center
-      - image_alt: Logo 8
-        image_align: center
       - title: Claro Nicaragua
         subtitle: 2017 - 2021
         title_align: left
