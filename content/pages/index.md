@@ -63,7 +63,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Duit Digital
-        subtitle: lorem-ipsum
+        subtitle: Enero 2017 - Junio 2017
         title_align: left
         content: >
           ## Content manager
