@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 8
     image: /images/Portafolio.png
   - type: grid_section
-    title: Some brand
+    title: How i worked
     subtitle: About my experience
     align: center
     grid_items:
