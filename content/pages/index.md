@@ -152,7 +152,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Digital Strategy
-        subtitle: 'Your products and services, at scale.'
+        subtitle: From 0 to all digital
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
