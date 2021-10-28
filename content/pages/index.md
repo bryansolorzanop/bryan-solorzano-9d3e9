@@ -157,7 +157,7 @@ sections:
           The following project i made for a local brand of my country, shows
           can I redesign a brand even if they do not have digital participation.
         actions:
-          - label: See Past Work
+          - label: See Past project
             url: /faq
             style: primary
             has_icon: true
