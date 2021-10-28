@@ -153,10 +153,9 @@ sections:
         media_width: fifty
       - title: Digital Strategy
         subtitle: From 0 to all digital
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          The following project i made for a local brand of my country, shows
+          can I redesign a brand even if they do not have digital participation.
         actions:
           - label: See Past Work
             url: /faq
