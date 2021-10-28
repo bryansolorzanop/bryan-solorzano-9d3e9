@@ -172,7 +172,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Interest
     subtitle: What in interested for
     grid_items:
       - content: >-
