@@ -141,7 +141,7 @@ sections:
           Just look at the following example of charts that speaks for
           themselves.
         actions:
-          - label: Learn More
+          - label: DATA STUDIO EXAMPLE
             url: /about
             style: secondary
             has_icon: true
