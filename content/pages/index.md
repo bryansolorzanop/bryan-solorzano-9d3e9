@@ -129,7 +129,7 @@ sections:
             icon_position: right
         image: /images/Portafolio_Contenido.png
         image_alt: Feature 1 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
