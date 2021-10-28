@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Personal",
-        "logo": "/images/BryanS.png",
+        "logo": "/images/BryanSolorzanoBig.png",
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
         "primary_nav_links": [
