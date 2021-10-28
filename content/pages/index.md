@@ -120,7 +120,7 @@ sections:
           large size companies. All my expertise it's on social media, but also
           i used to write on my personal blog.
         actions:
-          - label: See some content example
+          - label: How i create content
             url: /faq
             style: primary
             has_icon: true
