@@ -21,7 +21,7 @@ sections:
     image: /images/Portafolio.png
   - type: grid_section
     title: How I worked
-    subtitle: About my experience
+    subtitle: How I worked
     align: center
     grid_items:
       - title: Claro Nicaragua
