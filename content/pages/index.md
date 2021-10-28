@@ -115,10 +115,10 @@ sections:
     features:
       - title: Content Creation
         subtitle: Social Media planning
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          In my career, I learn how to create content for small, medium, and
+          large size companies. All my expertise it's on social media, but also
+          i used to write on my personal blog.
         actions:
           - label: See Writing Samples
             url: /faq
