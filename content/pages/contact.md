@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact Me
-    subtitle: Let me know if you want to talk about your bussines.
+    subtitle: Let me know if you want to talk about your business.
     align: center
     padding_top: medium
     padding_bottom: medium
