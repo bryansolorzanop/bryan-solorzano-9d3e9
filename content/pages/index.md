@@ -216,8 +216,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Stackbit Personal Theme
-  description: The preview of the Personal theme
+  title: Bryan Solorzano
+  description: Bryan Solorzano Portfolio
   extra:
     - name: 'og:type'
       value: website
