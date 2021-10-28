@@ -136,6 +136,9 @@ sections:
         content: >
           Growing it doesn't mean just new ideas, you always need data to know
           what is working and what it is not.
+
+
+          Just look at the following example of charts that speaks themselves.
         actions:
           - label: Learn More
             url: /about
