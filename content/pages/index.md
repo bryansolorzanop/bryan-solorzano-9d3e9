@@ -138,7 +138,8 @@ sections:
           what is working and what it is not.
 
 
-          Just look at the following example of charts that speaks themselves.
+          Just look at the following example of charts that speaks for
+          themselves.
         actions:
           - label: Learn More
             url: /about
