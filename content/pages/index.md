@@ -143,7 +143,7 @@ sections:
         actions:
           - label: DATA STUDIO EXAMPLE
             url: 'https://datastudio.google.com/s/n6Pv9LAW9hE'
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
