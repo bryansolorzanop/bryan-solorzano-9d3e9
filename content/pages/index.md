@@ -142,7 +142,7 @@ sections:
           themselves.
         actions:
           - label: DATA STUDIO EXAMPLE
-            url: /about
+            url: 'https://datastudio.google.com/s/n6Pv9LAW9hE'
             style: secondary
             has_icon: true
             icon: arrow-right
