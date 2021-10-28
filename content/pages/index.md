@@ -166,7 +166,7 @@ sections:
             icon_position: right
         image: /images/Portafolio_Digitals.png
         image_alt: Feature 3 illustration
-        media_position: right
+        media_position: left
         media_width: fifty
     feature_padding_vert: large
     align: center
