@@ -158,7 +158,8 @@ sections:
           can I redesign a brand even if they do not have digital participation.
         actions:
           - label: See Past project
-            url: /faq
+            url: >-
+              https://docs.google.com/document/d/193Pr5Clpf_uP-zaiyNA7EQqywTxAu6szX5NhviCRmO4/edit?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
