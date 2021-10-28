@@ -133,10 +133,9 @@ sections:
         media_width: sixty
       - title: Analytics
         subtitle: Online marketing performance
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Growing it doesn't mean just new ideas, you always need data to know
+          what is working and what it is not.
         actions:
           - label: Learn More
             url: /about
