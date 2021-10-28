@@ -121,7 +121,8 @@ sections:
           i used to write on my personal blog.
         actions:
           - label: How i create content
-            url: /faq
+            url: >-
+              https://drive.google.com/drive/folders/1K8ZKecSb-5RJqi4mFUH4MS9mm-PYOM43?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
