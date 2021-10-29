@@ -160,7 +160,7 @@ sections:
           - label: See Past project
             url: >-
               https://drive.google.com/file/d/1lK7O8FK6oc8l4a1FmLl6bSM8SM7NiCKa/view?usp=sharing
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
