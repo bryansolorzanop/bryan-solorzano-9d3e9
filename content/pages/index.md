@@ -217,7 +217,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Bryan Solorzano
-  description: 'Bryan Solorzano portfolio '
+  description: Bryan Solorzano Portfolio 
   extra:
     - name: 'og:type'
       value: website
