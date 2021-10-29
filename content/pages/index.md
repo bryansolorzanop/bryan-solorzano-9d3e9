@@ -159,7 +159,7 @@ sections:
         actions:
           - label: See Past project
             url: >-
-              https://docs.google.com/document/d/193Pr5Clpf_uP-zaiyNA7EQqywTxAu6szX5NhviCRmO4/edit?usp=sharing
+              https://drive.google.com/file/d/1lK7O8FK6oc8l4a1FmLl6bSM8SM7NiCKa/view?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
@@ -217,7 +217,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Bryan Solorzano
-  description: Bryan Solorzano Portfolio 
+  description: Bryan Solorzano Portfolio
   extra:
     - name: 'og:type'
       value: website
